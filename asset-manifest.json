@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/base-apparel-coming-soon/static/css/main.334825a0.chunk.css",
+    "main.js": "/base-apparel-coming-soon/static/js/main.9317671e.chunk.js",
+    "main.js.map": "/base-apparel-coming-soon/static/js/main.9317671e.chunk.js.map",
+    "runtime-main.js": "/base-apparel-coming-soon/static/js/runtime-main.fbc1daea.js",
+    "runtime-main.js.map": "/base-apparel-coming-soon/static/js/runtime-main.fbc1daea.js.map",
+    "static/js/2.bab8f44e.chunk.js": "/base-apparel-coming-soon/static/js/2.bab8f44e.chunk.js",
+    "static/js/2.bab8f44e.chunk.js.map": "/base-apparel-coming-soon/static/js/2.bab8f44e.chunk.js.map",
+    "static/js/3.6bd463d7.chunk.js": "/base-apparel-coming-soon/static/js/3.6bd463d7.chunk.js",
+    "static/js/3.6bd463d7.chunk.js.map": "/base-apparel-coming-soon/static/js/3.6bd463d7.chunk.js.map",
+    "index.html": "/base-apparel-coming-soon/index.html",
+    "static/css/main.334825a0.chunk.css.map": "/base-apparel-coming-soon/static/css/main.334825a0.chunk.css.map",
+    "static/js/2.bab8f44e.chunk.js.LICENSE.txt": "/base-apparel-coming-soon/static/js/2.bab8f44e.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/base-apparel-coming-soon/static/media/base-apparel-icons.f306f47c.svg",
+    "static/media/hero-mobile.1afd055b.jpg": "/base-apparel-coming-soon/static/media/hero-mobile.1afd055b.jpg",
+    "static/media/logo.bfe35add.svg": "/base-apparel-coming-soon/static/media/logo.bfe35add.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc1daea.js",
+    "static/js/2.bab8f44e.chunk.js",
+    "static/css/main.334825a0.chunk.css",
+    "static/js/main.9317671e.chunk.js"
+  ]
+}
