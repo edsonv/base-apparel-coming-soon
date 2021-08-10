@@ -18,7 +18,7 @@ const Home = () => {
           </form>
         </header>
         <aside className="aside">
-          <img className="image" src={ HeroMobile } srcSet={ `${HeroMobile} 991w, ${HeroDesktop} 992w` } alt="" />
+          <img className="image" src={ HeroMobile } srcSet={ `${HeroDesktop} 992w, ${HeroMobile}` } alt="" />
         </aside>
       </section>
     </>
