@@ -32,11 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshotMobile.jpg)
+![](./screenshotDesktop.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://github.com/edsonv/base-apparel-coming-soon)
 - [Live Site URL](https://edsonv.github.io/base-apparel-coming-soon)
 
 ## My process
@@ -45,29 +46,23 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - SCSS
-- Botstrap
+- RSCSS
+- CSS Grids
+- Flexbox
 - Mobile-first workflow - Progressive enhancement
 - [React](https://reactjs.org/) - JS library
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Improve form validation using setCustomValidity API and the use of React Hooks.
 
 ### Useful resources
 
-- [How to build responsive images with srcSet - SitePoint](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [ValidityState - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/ValidityState) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [How to build responsive images with srcSet - SitePoint](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/) - This helped me set the images that were going to render depending on the viewport width.
+- [ValidityState - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/ValidityState) - This is the documentation on the ValidityState API that helped me to write a custom validation message for the form.
 
 ## Author
 
 - Github - [@edsonv](https://github.com/edsonv)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
