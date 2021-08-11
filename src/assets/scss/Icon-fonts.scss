@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'base-apparel-icons';
-  src:  url('../fonts/base-apparel-icons.eot?relr6h');
-  src:  url('../fonts/base-apparel-icons.eot?relr6h#iefix') format('embedded-opentype'),
-    url('../fonts/base-apparel-icons.ttf?relr6h') format('truetype'),
-    url('../fonts/base-apparel-icons.woff?relr6h') format('woff'),
-    url('../fonts/base-apparel-icons.svg?relr6h#base-apparel-icons') format('svg');
+  src:  url('../fonts/base-apparel-icons.eot?j6opye');
+  src:  url('../fonts/base-apparel-icons.eot?j6opye#iefix') format('embedded-opentype'),
+    url('../fonts/base-apparel-icons.ttf?j6opye') format('truetype'),
+    url('../fonts/base-apparel-icons.woff?j6opye') format('woff'),
+    url('../fonts/base-apparel-icons.svg?j6opye#base-apparel-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -28,12 +28,7 @@ i {
 .icon-arrow:before {
   content: "\e900";
 }
-.icon-error .path1:before {
+.icon-error:before {
   content: "\e901";
-  color: rgb(249, 100, 100);
-}
-.icon-error .path2:before {
-  content: "\e902";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: #f96464;
 }

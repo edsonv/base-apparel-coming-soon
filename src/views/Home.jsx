@@ -1,6 +1,7 @@
 import Logo from '../assets/images/logo.svg'
 import HeroDesktop from '../assets/images/hero-desktop.jpg'
 import HeroMobile from '../assets/images/hero-mobile.jpg'
+import Form from '../components/Form'
 
 const Home = () => {
   return (
@@ -12,13 +13,14 @@ const Home = () => {
         <header className="header">
           <h1 className="title"><span className="-first-line">We're</span> coming soon</h1>
           <p className="lead">Hello fellow shoppers! We're currently building our new fashion store. Add your email below to stay up-to-date with announcements and our launch deals.</p>
-          <form className="form" action="">
-            <input type="email" name="" id="" className="input -email" placeholder="Email Address" />
-            <button className="button -submit" type="submit"><i className="icon-arrow"></i></button>
-          </form>
+          <Form />
         </header>
         <aside className="aside">
-          <img className="image" src={ HeroMobile } srcSet={ `${HeroDesktop} 992w, ${HeroMobile}` } alt="" />
+          <picture>
+            <source media="(max-width: 991.8px)" srcSet={ HeroMobile } />
+            <source media="(min-width: 992px)" srcSet={ HeroDesktop } />
+            <img className="image" src={ HeroMobile } alt="" />
+          </picture>
         </aside>
       </section>
     </>
